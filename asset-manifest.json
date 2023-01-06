@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/apg-climaapp/static/css/main.f8e0988b.css",
+    "main.js": "/apg-climaapp/static/js/main.f49ab854.js",
+    "static/media/bg.jpg": "/apg-climaapp/static/media/bg.bb9302ed1ac427224eef.jpg",
+    "index.html": "/apg-climaapp/index.html",
+    "main.f8e0988b.css.map": "/apg-climaapp/static/css/main.f8e0988b.css.map",
+    "main.f49ab854.js.map": "/apg-climaapp/static/js/main.f49ab854.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8e0988b.css",
+    "static/js/main.f49ab854.js"
+  ]
+}
